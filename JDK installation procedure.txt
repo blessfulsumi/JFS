@@ -1,0 +1,24 @@
+Goto google
+type:
+jdk1.8 download for windows 10 64 bit 
+
+https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html
+
+downlink: https://download.oracle.com/otn/java/jdk/8u202-b08/1961070e4c9b4e26a04e7f5a083f551e/jdk-8u202-windows-x64.exe
+(May asked to do ORacle Sign UP - Complete and download it)
+
+Download and installthe software
+
+C:\Program Files\Java\jdk1.8.0_221\bin
+
+Set path in Environment variables.
+
+
+Type 'javac' in command prompt to check java is properly installed in your system.
+
+Compile: javac filename.java
+Execute: java filename
+
+
+Eclipse Download link:
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2021-12/R/eclipse-inst-jre-win64.exe&mirror_id=105
